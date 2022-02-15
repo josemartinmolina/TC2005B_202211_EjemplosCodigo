@@ -1,0 +1,22 @@
+a {
+	color:cyan;
+}
+
+li {
+	color:green;
+}
+
+ul ul{
+	color: orange;
+}
+
+table {
+	border:1px solid;
+}
+
+.miestilo {
+	color:blue;
+}
+div:hover {
+	color:red;
+}
